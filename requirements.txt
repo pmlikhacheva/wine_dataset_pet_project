@@ -2,3 +2,6 @@ jupyter
 pandas
 numpy
 matplotlib
+seaborn
+os
+scikit-learn
